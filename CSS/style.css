@@ -95,7 +95,3 @@ input{
     border-radius: 15px;
     cursor: pointer;
 }
-.botao::after{
-    background: #F9F9F9;
-    color: #C07212;
-}
