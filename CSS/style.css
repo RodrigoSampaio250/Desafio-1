@@ -59,6 +59,10 @@ main{
     letter-spacing: -0.025em;
 }
 
+img{
+    width: 100%;
+}
+
 footer{
     background: #303030;
     display: flex;
