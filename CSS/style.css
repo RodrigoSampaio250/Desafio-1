@@ -57,10 +57,26 @@ main{
 .texto-central-P{
     font-size: 25px;
     letter-spacing: -0.025em;
+    text-align: justify;
+}
+.article-texto{
+    margin-left: 7ex;
+    margin-right: 3ex;
+    width: 50%;
+}
+.article-img{
+    width: 50%;
+}
+.article-div-1{
+    margin: 35px 3ex;
+}
+.article-div-2{
+    margin: 0px 3ex;
 }
 
 img{
-    width: 100%;
+    width: 90%;
+    margin: 0px 30px;
 }
 
 footer{
